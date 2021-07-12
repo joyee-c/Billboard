@@ -1,7 +1,7 @@
 # Billboard web scrapper
 I love music and analyzing charts which is the main reason for doing this project.
 I love keeping up with charts from Billboard to rollingstone and even spotify charts and therefore wanted to be able to quickly check chart positions for my favorite songs or albums currently
-or even analyze charts dating back to three or four years ago.
+or even analyze charts dating back to ten years ago.
 This is a web scrappping project that utilizes requests and the beautiful soup package.
 
 -> How it works

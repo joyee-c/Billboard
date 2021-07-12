@@ -8,6 +8,7 @@ if contentSearch.lower()=='n':
     findTrack = input("Album or Song name: ")
 else:
     number = input("Enter position number: ")
+    number = int(number)
 
     #chart which will be scrapped depending on user input
 if typeSearch.lower()=='s':

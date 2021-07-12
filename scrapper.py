@@ -33,7 +33,7 @@ for track in tracks:
   
 #return user request either the chart position of a desired song or album or an album or song in a specific position
 if contentSearch.lower()=='p':
-    print(f'{artists[number]} - {songs[number]}')
+    print(f'{artists[number-1]} - {songs[number-1]}')
 else:
     for index in range(len(songs)):
         if songs[index].lower() == findTrack.lower():

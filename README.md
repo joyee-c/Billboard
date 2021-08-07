@@ -12,3 +12,6 @@ This is a web scrappping project that utilizes requests and the beautiful soup p
 * The program proceeds to get the appropriate parts of the content recoverd that is the name of the song or album and the chart position
 * If found the chart postion is returned if not user gets message "Not on Charts"
 
+## Illustration
+![Getting Started](Bill.png)
+
